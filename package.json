@@ -1,0 +1,29 @@
+{
+  "name": "hazmi.id",
+  "version": "1.0.0",
+  "description": "hazmi.id webiste codebase",
+  "main": "index.js",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "next": "^8.1.0",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazmi/hazmi.id-nextjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazmi/hazmi.id-nextjs/issues"
+  },
+  "homepage": "https://github.com/hazmi/hazmi.id-nextjs#readme"
+}
