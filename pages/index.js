@@ -1,10 +1,11 @@
-import React, { useState } from 'react'
+import React from 'react'
+import { Header } from "../components/header";
 import "./index.scss";
 
 const Index = () => {
   return (
     <div className="home">
-      <p>Hello World</p>
+      <Header />
     </div>
   );
 }
