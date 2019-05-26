@@ -1,0 +1,29 @@
+.navigation {
+  position: relative;
+  display: flex;
+  &__item {
+    flex: 1;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    text-decoration: none;
+    color: #666;
+    padding: 10px 0;
+    font-size: 14px;
+    &_active svg path {
+      fill: #A62265;
+    }
+  }
+  &__active-link {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 25%;
+    height: 5px;
+    background: #A62265;
+    transition: left 0.3s ease;
+    &_1 { left: 0; }
+    &_2 { left: 25%; }
+    &_3 { left: 50%; }
+    &_4 { left: 75%; }
+  }
+}
