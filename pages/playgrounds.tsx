@@ -1,9 +1,6 @@
 import React from 'react'
+import ComingSoon from '../components/coming-soon'
 
-const Playgrounds = () => (
-  <div>
-    Playgrounds
-  </div>
-);
+const Playgrounds = () => <ComingSoon title="Playgrounds" />;
 
 export default Playgrounds;

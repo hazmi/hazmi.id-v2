@@ -1,9 +1,6 @@
 import React from 'react'
+import ComingSoon from '../components/coming-soon'
 
-const WorkExperiences = () => (
-  <div>
-    Work Experiences
-  </div>
-);
+const WorkExperiences = () => <ComingSoon title="Work Experiences" />;
 
 export default WorkExperiences;
