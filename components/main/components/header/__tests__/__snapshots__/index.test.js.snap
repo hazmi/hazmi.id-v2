@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing It show the correct breadcrumbs 1`] = `
+<div
+  className="header"
+>
+  <img
+    className="header__avatar"
+    height={32}
+    src="/static/pp.jpg"
+    width={32}
+  />
+  <h1
+    className="header__title"
+  >
+    Hazmi.ID / Work Experiences
+  </h1>
+</div>
+`;
+
+exports[`With Snapshot Testing It show the site name 1`] = `
+<div
+  className="header"
+>
+  <img
+    className="header__avatar"
+    height={32}
+    src="/static/pp.jpg"
+    width={32}
+  />
+  <h1
+    className="header__title"
+  >
+    Hazmi.ID
+  </h1>
+</div>
+`;

@@ -1,7 +1,7 @@
 {
   "name": "hazmi.id",
   "version": "1.0.0",
-  "description": "hazmi.id webiste codebase",
+  "description": "hazmi.id website codebase",
   "main": "index.js",
   "dependencies": {
     "@types/next": "^8.0.5",
@@ -19,6 +19,7 @@
     "babel-jest": "^24.8.0",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.13.2",
+    "identity-obj-proxy": "^3.0.0",
     "jest": "^24.8.0",
     "react-addons-test-utils": "^15.6.2",
     "react-test-renderer": "^16.8.6"
