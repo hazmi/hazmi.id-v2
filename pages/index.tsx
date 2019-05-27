@@ -1,9 +1,6 @@
 import React from 'react'
+import Intro from '../components/intro'
 
-const Index = () => (
-  <div>
-    <p>Hello</p>
-  </div>
-);
+const Index = () => <Intro />;
 
 export default Index;
