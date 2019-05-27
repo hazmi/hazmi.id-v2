@@ -12,6 +12,10 @@ class MyApp extends App {
         <Head>
           <title>Hazmi.ID</title>
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+          <link rel="icon" href="/static/favicon.ico" type="image/x-icon" />
+          <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-icon-180x180.png" />
+          <link rel="icon" type="image/png" sizes="192x192"  href="/static/android-icon-192x192.png" />
+          <link rel="icon" type="image/png" sizes="96x96" href="/static/favicon-96x96.png" />
         </Head>
         <Main>
           <Component {...pageProps} />

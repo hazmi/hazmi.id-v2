@@ -10,7 +10,7 @@
     padding: 13px 0 9px;
     font-size: 14px;
     &_active svg path {
-      fill: #A62265;
+      fill: #cf257b;
     }
   }
   &__active-link {
@@ -19,7 +19,7 @@
     left: 0;
     width: 25%;
     height: 3px;
-    background: #A62265;
+    background: #cf257b;
     transition: left 0.3s ease;
     &_1 { left: 0; }
     &_2 { left: 25%; }
