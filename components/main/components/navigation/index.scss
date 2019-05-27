@@ -7,7 +7,7 @@
     border-bottom: 1px solid #ccc;
     text-decoration: none;
     color: #666;
-    padding: 10px 0;
+    padding: 13px 0 9px;
     font-size: 14px;
     &_active svg path {
       fill: #A62265;
@@ -18,7 +18,7 @@
     bottom: 0;
     left: 0;
     width: 25%;
-    height: 5px;
+    height: 3px;
     background: #A62265;
     transition: left 0.3s ease;
     &_1 { left: 0; }

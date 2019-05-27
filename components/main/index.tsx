@@ -13,10 +13,11 @@ interface navItem {
   link: string,
   icon: any
 };
+
 const data: navItem[] = [
   {
     id: 1,
-    title: "Hazmi.ID",
+    title: "",
     link: "/",
     icon: IconHome,
   },

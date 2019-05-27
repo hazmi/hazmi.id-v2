@@ -4,10 +4,10 @@ import { withRouter } from 'next/router'
 import './index.scss'
 
 export const Header = ({ data, router }) => {
-  let title: string;
+  let title: string = 'Hazmi.ID';
   data.map(item => {
-    if (router.pathname === item.link) {
-      title = item.title;
+    if (item.title && router.pathname === item.link) {
+      title = `Hazmi.ID / ${item.title}`;
     }
   });
   return (
