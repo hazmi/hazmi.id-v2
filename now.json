@@ -10,7 +10,7 @@
         }
       }	
     ],
-    "name": "hazmi.id",
+    "name": "nextjs",
     "builds": [
       {
         "src": "next.config.js",
