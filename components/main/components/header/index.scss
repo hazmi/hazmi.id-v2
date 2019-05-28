@@ -1,5 +1,7 @@
 .header {
+  box-sizing: border-box;
   display: flex;
+  height: 46px;
   padding: 10px;
   background: #cf257b;
   &__avatar {
