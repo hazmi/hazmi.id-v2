@@ -16,7 +16,7 @@ const Intro = () => (
     </section>
     <section>
       <h3>About this site</h3>
-      <p>This site is built using <a href="https://nextjs.org/">Next.js</a>, a <a href="https://reactjs.org/">React</a> Framework.</p>
+      <p>This site is built using <a href="https://nextjs.org/">Next.js</a>, a <a href="https://reactjs.org/">React</a> Framework. This site is still in progress, currently optimized for mobile.</p>
       <p><em>[will write more about the site]</em></p>
     </section>
   </section>
