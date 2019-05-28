@@ -1,6 +1,6 @@
 import React from 'react'
-import ComingSoon from '../components/coming-soon'
+import PlaygroundList from '../components/playground-list'
 
-const Playgrounds = () => <ComingSoon title="Playgrounds" />;
+const Playgrounds = () => <PlaygroundList />;
 
 export default Playgrounds;

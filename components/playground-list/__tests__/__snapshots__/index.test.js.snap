@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing show the correct content 1`] = `
+<div
+  className="playground-list"
+>
+  <section
+    className="playground-list__item"
+  >
+    <h3
+      className="playground-list__item-header"
+    >
+      <a
+        href="https://todomvc.hazmi.now.sh/"
+      >
+        TodoMVC - Next.js
+      </a>
+    </h3>
+    <div
+      className="playground-list__item-content"
+    >
+      <img
+        src="/static/playground/todo-nextjs.jpg"
+        width="100%"
+      />
+      <p>
+        Another TodoMVC app. Written using 
+        <a
+          href="https://nextjs.org/"
+        >
+          Next.js
+        </a>
+         framework.
+      </p>
+    </div>
+    <div
+      className="playground-list__item-action"
+    >
+      <a
+        className="playground-list__item-readme"
+        href="https://github.com/hazmi/todomvc-nextjs/blob/master/README.md"
+      >
+        Readme
+      </a>
+      <a
+        className="playground-list__item-source"
+        href="https://github.com/hazmi/todomvc-nextjs"
+      >
+        Source
+      </a>
+      <a
+        className="playground-list__item-demo"
+        href="https://todomvc.hazmi.now.sh/"
+      >
+        Demo
+      </a>
+    </div>
+  </section>
+  <section
+    className="playground-list__item"
+  >
+    <h3
+      className="playground-list__item-header"
+    >
+      <a
+        href="https://cra-todomvc.netlify.com/#/"
+      >
+        TodoMVC - Create React App
+      </a>
+    </h3>
+    <div
+      className="playground-list__item-content"
+    >
+      <img
+        src="/static/playground/todo-cra.jpg"
+        width="100%"
+      />
+      <p>
+        Another TodoMVC app. Written using 
+        <a
+          href="https://facebook.github.io/create-react-app/"
+        >
+          Create React App
+        </a>
+         framework.
+      </p>
+    </div>
+    <div
+      className="playground-list__item-action"
+    >
+      <a
+        className="playground-list__item-readme"
+        href="https://github.com/hazmi/todomvc-cra/blob/master/README.md"
+      >
+        Readme
+      </a>
+      <a
+        className="playground-list__item-source"
+        href="https://github.com/hazmi/todomvc-cra"
+      >
+        Source
+      </a>
+      <a
+        className="playground-list__item-demo"
+        href="https://cra-todomvc.netlify.com/#/"
+      >
+        Demo
+      </a>
+    </div>
+  </section>
+</div>
+`;

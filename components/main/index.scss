@@ -5,6 +5,7 @@
   max-width: 800px;
   max-height: 100vh;
   background-color: #fff;
+  overflow: auto;
   &__content {
     flex: 1;
   }
