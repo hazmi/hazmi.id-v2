@@ -9,7 +9,9 @@ export const PlaygroundList = () => {
           <a href="https://todomvc.hazmi.now.sh/">TodoMVC - Next.js</a>
         </h3>
         <div className="playground-list__item-content">
-          <img src="/static/playground/todo-nextjs.jpg" width="100%" />
+          <div className="playground-list__item-image">
+            <img src="/static/playground/todo-nextjs.jpg" width="100%" />
+          </div>
           <p>Another TodoMVC app. Written using <a href="https://nextjs.org/">Next.js</a> framework.</p>
         </div>
         <div className="playground-list__item-action">
@@ -23,7 +25,9 @@ export const PlaygroundList = () => {
           <a href="https://cra-todomvc.netlify.com/#/">TodoMVC - Create React App</a>
         </h3>
         <div className="playground-list__item-content">
-          <img src="/static/playground/todo-cra.jpg" width="100%" />
+          <div className="playground-list__item-image">
+            <img src="/static/playground/todo-cra.jpg" width="100%" />
+          </div>
           <p>Another TodoMVC app. Written using <a href="https://facebook.github.io/create-react-app/">Create React App</a> framework.</p>
         </div>
         <div className="playground-list__item-action">

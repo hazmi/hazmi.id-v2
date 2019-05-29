@@ -19,10 +19,14 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     <div
       className="playground-list__item-content"
     >
-      <img
-        src="/static/playground/todo-nextjs.jpg"
-        width="100%"
-      />
+      <div
+        className="playground-list__item-image"
+      >
+        <img
+          src="/static/playground/todo-nextjs.jpg"
+          width="100%"
+        />
+      </div>
       <p>
         Another TodoMVC app. Written using 
         <a
@@ -71,10 +75,14 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     <div
       className="playground-list__item-content"
     >
-      <img
-        src="/static/playground/todo-cra.jpg"
-        width="100%"
-      />
+      <div
+        className="playground-list__item-image"
+      >
+        <img
+          src="/static/playground/todo-cra.jpg"
+          width="100%"
+        />
+      </div>
       <p>
         Another TodoMVC app. Written using 
         <a
