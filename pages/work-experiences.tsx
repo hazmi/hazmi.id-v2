@@ -1,6 +1,6 @@
 import React from 'react'
-import ComingSoon from '../components/coming-soon'
+import ExperienceList from '../components/experience-list'
 
-const WorkExperiences = () => <ComingSoon title="Work Experiences" />;
+const WorkExperiences = () => <ExperienceList />;
 
 export default WorkExperiences;

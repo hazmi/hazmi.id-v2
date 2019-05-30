@@ -1,0 +1,296 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing show the correct content 1`] = `
+<div
+  className="experience-list"
+>
+  <section
+    className="experience-list__item"
+  >
+    <img
+      src="/static/work/mango33.png"
+    />
+    <div
+      className="experience-list__item-content"
+    >
+      <h5
+        className="experience-list__item-date"
+      >
+        May 2018 — Present
+      </h5>
+      <h3
+        className="experience-list__item-title"
+      >
+        Tech Lead / IT Director
+      </h3>
+      <h4
+        className="experience-list__item-company"
+      >
+        <span>
+          at
+        </span>
+         Mango33 Pte Ltd
+      </h4>
+      <div
+        className="experience-list__item-info"
+      >
+        <p>
+          A mobile platforms providers.
+        </p>
+      </div>
+    </div>
+  </section>
+  <section
+    className="experience-list__item"
+  >
+    <img
+      src="/static/work/cellihealth.png"
+    />
+    <div
+      className="experience-list__item-content"
+    >
+      <h5
+        className="experience-list__item-date"
+      >
+        May 2016 — May 2018 · 2yrs 1mo
+      </h5>
+      <h3
+        className="experience-list__item-title"
+      >
+        Tech Lead / IT Director
+      </h3>
+      <h4
+        className="experience-list__item-company"
+      >
+        <span>
+          at
+        </span>
+         CelliHealth Pte Ltd
+      </h4>
+      <div
+        className="experience-list__item-info"
+      >
+        <p>
+          A health care mobile application.
+        </p>
+      </div>
+    </div>
+  </section>
+  <section
+    className="experience-list__item"
+  >
+    <img
+      src="/static/work/kmk.png"
+    />
+    <div
+      className="experience-list__item-content"
+    >
+      <h5
+        className="experience-list__item-date"
+      >
+        May 2015 — May 2016 · 1yr 1mo
+      </h5>
+      <h3
+        className="experience-list__item-title"
+      >
+        Lead Front-end Engineer
+      </h3>
+      <h4
+        className="experience-list__item-company"
+      >
+        <span>
+          at
+        </span>
+         PT. Kreatif Media Karya (KMK)
+      </h4>
+      <div
+        className="experience-list__item-info"
+      >
+        <p>
+          Part of Emtek. Own BBM, Vidio, Liputan6, etc.
+        </p>
+      </div>
+    </div>
+  </section>
+  <section
+    className="experience-list__item"
+  >
+    <img
+      src="/static/work/graipe.png"
+    />
+    <div
+      className="experience-list__item-content"
+    >
+      <h5
+        className="experience-list__item-date"
+      >
+        Jan 2013 — Apr 2015 · 2yr 3mos
+      </h5>
+      <h3
+        className="experience-list__item-title"
+      >
+        Tech Lead / VP Technology
+      </h3>
+      <h4
+        className="experience-list__item-company"
+      >
+        <span>
+          at
+        </span>
+         Graipe Labs
+      </h4>
+      <div
+        className="experience-list__item-info"
+      >
+        <p>
+          A mobile and web platforms providers.
+        </p>
+      </div>
+    </div>
+  </section>
+  <section
+    className="experience-list__item"
+  >
+    <img
+      src="/static/work/kitook.png"
+    />
+    <div
+      className="experience-list__item-content"
+    >
+      <h5
+        className="experience-list__item-date"
+      >
+        Aug 2012 — Apr 2014 · 1yr 9mos
+      </h5>
+      <h3
+        className="experience-list__item-title"
+      >
+        CTO
+      </h3>
+      <h4
+        className="experience-list__item-company"
+      >
+        <span>
+          at
+        </span>
+         PT. VG Wisata Indonesia (Kitook)
+      </h4>
+      <div
+        className="experience-list__item-info"
+      >
+        <p>
+          An online travel agent (OTA).
+        </p>
+      </div>
+    </div>
+  </section>
+  <section
+    className="experience-list__item"
+  >
+    <img
+      src="/static/work/gonla.png"
+    />
+    <div
+      className="experience-list__item-content"
+    >
+      <h5
+        className="experience-list__item-date"
+      >
+        Oct 2011 — Aug 2012 · 11mos
+      </h5>
+      <h3
+        className="experience-list__item-title"
+      >
+        Senior Web Developer
+      </h3>
+      <h4
+        className="experience-list__item-company"
+      >
+        <span>
+          at
+        </span>
+         PT. Perjalanan Wisata (Gonla)
+      </h4>
+      <div
+        className="experience-list__item-info"
+      >
+        <p>
+          An online travel agent (OTA).
+        </p>
+      </div>
+    </div>
+  </section>
+  <section
+    className="experience-list__item"
+  >
+    <img
+      src="/static/work/xhtmlized.png"
+    />
+    <div
+      className="experience-list__item-content"
+    >
+      <h5
+        className="experience-list__item-date"
+      >
+        Oct 2007 — Aug 2011 · 4yrs 4mos
+      </h5>
+      <h3
+        className="experience-list__item-title"
+      >
+        Front-end Web Developer
+      </h3>
+      <h4
+        className="experience-list__item-company"
+      >
+        <span>
+          at
+        </span>
+         XHTMLized
+      </h4>
+      <div
+        className="experience-list__item-info"
+      >
+        <p>
+          A slicing service company.
+        </p>
+      </div>
+    </div>
+  </section>
+  <section
+    className="experience-list__item"
+  >
+    <img
+      src="/static/work/agrisoft.png"
+    />
+    <div
+      className="experience-list__item-content"
+    >
+      <h5
+        className="experience-list__item-date"
+      >
+        Jan 2005 — Jun 2007 · 2yrs 6mos
+      </h5>
+      <h3
+        className="experience-list__item-title"
+      >
+        Web Developer
+      </h3>
+      <h4
+        className="experience-list__item-company"
+      >
+        <span>
+          at
+        </span>
+         PT. Kreatif Media Karya (KMK)
+      </h4>
+      <div
+        className="experience-list__item-info"
+      >
+        <p>
+          A software house.
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+`;
