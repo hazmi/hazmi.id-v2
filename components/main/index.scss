@@ -3,7 +3,8 @@
   max-width: 800px;
   max-height: 100vh;
   background-color: #fff;
-  overflow: auto;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
   &__content {
     flex: 1;
   }
