@@ -12,6 +12,8 @@ class MyApp extends App {
         <Head>
           <title>Hazmi.ID</title>
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+          <meta name="theme-color" content="#cf257b" />
+          <meta name="description" content="Hazmi's personal website. Contains Personal Info, Work Experiences, Past Projects and Playgrounds."/>
           <link rel="icon" href="/static/favicon.ico" type="image/x-icon" />
           <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-icon-180x180.png" />
           <link rel="icon" type="image/png" sizes="192x192"  href="/static/android-icon-192x192.png" />
