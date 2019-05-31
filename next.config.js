@@ -1,8 +1,38 @@
 const withSass = require('@zeit/next-sass')
 const withTypescript = require('@zeit/next-typescript')
 const withOffline = require('next-offline')
+const withManifest = require('next-manifest')
 
 const nextConfig = {
+  manifest: {
+    start_url: "/",
+    display: "standalone",
+    orientation: "natural",
+    background_color: "#ffffff",
+    theme_color: "#cf257b",
+    icons: [
+      {
+        "src": "/static/android-icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/static/apple-icon-180x180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "/static/favicon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "/static/favicon.ico",
+        "sizes": "16x16",
+        "type": "image/ico"
+      }
+    ]
+  },
   workboxOpts: {
     swDest: 'service-worker.js',
     runtimeCaching: [
@@ -25,4 +55,4 @@ const nextConfig = {
   },
 }
 
-module.exports = withTypescript(withOffline(withSass(nextConfig)))
+module.exports = withTypescript(withOffline(withManifest(withSass(nextConfig))))
