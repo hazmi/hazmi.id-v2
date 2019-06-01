@@ -11,12 +11,12 @@ const Intro = () => (
     <section>
       <h3>Contact</h3>
       <p>
-        If you need anything, I'm on <a href="https://www.linkedin.com/in/hazmi-abdun-nazir/">LinkedIn</a>, <a href="https://github.com/hazmi">GitHub</a> or <a href="https://twitter.com/hazmi">Twitter</a>.
+        If you need anything, I'm on <a href="https://www.linkedin.com/in/hazmi-abdun-nazir/" aria-label="Go to Hazmi's LinkedIn">LinkedIn</a>, <a href="https://github.com/hazmi" aria-label="Go to Hazmi's Github">GitHub</a> or <a href="https://twitter.com/hazmi"  aria-label="Go to Hazmi's Twitter">Twitter</a>.
       </p>
     </section>
     <section>
       <h3>About this site</h3>
-      <p>This site is built using <a href="https://nextjs.org/">Next.js</a>, a <a href="https://reactjs.org/">React</a> Framework. This site is still in progress, currently optimized for mobile.</p>
+      <p>This site is built using <a href="https://nextjs.org/"  aria-label="Go to Next.js website">Next.js</a>, a <a href="https://reactjs.org/" aria-label="Go to React Website">React</a> Framework. This site is still in progress, currently optimized for mobile.</p>
       <p><em>[will write more about the site]</em></p>
     </section>
   </section>

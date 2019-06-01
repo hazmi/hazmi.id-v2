@@ -16,6 +16,7 @@ export const Navigation = ({ data, router }) => {
           <a
             key={item.link}
             href={item.link}
+            aria-label={`Go to ${item.title} page`}
             onClick={e => {
               e.preventDefault();
               router.push(item.link);
