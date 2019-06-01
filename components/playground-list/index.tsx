@@ -13,11 +13,8 @@ export const PlaygroundList = () => {
             TodoMVC - Next.js
           </a>
         </h3>
-        <div className="playground-list__item-content">
-          <div className="playground-list__item-image">
-            <img src="/static/playground/todo-nextjs.jpg" alt="TodoMVC in Next.js" width="100%" />
-          </div>
-          <p>Another TodoMVC app. Written using <a href="https://nextjs.org/" aria-label="Go to Next.js framework website">Next.js</a> framework.</p>
+        <div className="playground-list__item-image">
+          <img src="/static/playground/todo-nextjs.jpg" alt="TodoMVC in Next.js" width="100%" />
         </div>
         <div className="playground-list__item-action">
           <a
@@ -42,6 +39,7 @@ export const PlaygroundList = () => {
             Demo
           </a>
         </div>
+        <p>Another TodoMVC app. Written using <a href="https://nextjs.org/" aria-label="Go to Next.js framework website">Next.js</a> framework.</p>
       </section>
       <section className="playground-list__item">
         <h3 className="playground-list__item-header">
@@ -51,11 +49,8 @@ export const PlaygroundList = () => {
             TodoMVC - Create React App
           </a>
         </h3>
-        <div className="playground-list__item-content">
-          <div className="playground-list__item-image">
-            <img src="/static/playground/todo-cra.jpg" alt="TodoMVC in CRA" width="100%" />
-          </div>
-          <p>Another TodoMVC app. Written using <a href="https://facebook.github.io/create-react-app/" aria-label="Go to Create React App Framework website">Create React App</a> framework.</p>
+        <div className="playground-list__item-image">
+          <img src="/static/playground/todo-cra.jpg" alt="TodoMVC in CRA" width="100%" />
         </div>
         <div className="playground-list__item-action">
           <a
@@ -80,6 +75,7 @@ export const PlaygroundList = () => {
             Demo
           </a>
         </div>
+        <p>Another TodoMVC app. Written using <a href="https://facebook.github.io/create-react-app/" aria-label="Go to Create React App Framework website">Create React App</a> framework.</p>
       </section>
     </div>
   )

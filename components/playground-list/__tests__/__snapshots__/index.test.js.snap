@@ -11,54 +11,56 @@ exports[`With Snapshot Testing show the correct content 1`] = `
       className="playground-list__item-header"
     >
       <a
+        aria-label="Go to TodoMVC - Next.js demo page"
         href="https://todomvc.hazmi.now.sh/"
       >
         TodoMVC - Next.js
       </a>
     </h3>
     <div
-      className="playground-list__item-content"
+      className="playground-list__item-image"
     >
-      <div
-        className="playground-list__item-image"
-      >
-        <img
-          src="/static/playground/todo-nextjs.jpg"
-          width="100%"
-        />
-      </div>
-      <p>
-        Another TodoMVC app. Written using 
-        <a
-          href="https://nextjs.org/"
-        >
-          Next.js
-        </a>
-         framework.
-      </p>
+      <img
+        alt="TodoMVC in Next.js"
+        src="/static/playground/todo-nextjs.jpg"
+        width="100%"
+      />
     </div>
     <div
       className="playground-list__item-action"
     >
       <a
+        aria-label="Go to TodoMVC - Next.js readme page"
         className="playground-list__item-readme"
         href="https://github.com/hazmi/todomvc-nextjs/blob/master/README.md"
       >
         Readme
       </a>
       <a
+        aria-label="Go to TodoMVC - Next.js source on Github"
         className="playground-list__item-source"
         href="https://github.com/hazmi/todomvc-nextjs"
       >
         Source
       </a>
       <a
+        aria-label="Go to TodoMVC - Next.js demo page"
         className="playground-list__item-demo"
         href="https://todomvc.hazmi.now.sh/"
       >
         Demo
       </a>
     </div>
+    <p>
+      Another TodoMVC app. Written using 
+      <a
+        aria-label="Go to Next.js framework website"
+        href="https://nextjs.org/"
+      >
+        Next.js
+      </a>
+       framework.
+    </p>
   </section>
   <section
     className="playground-list__item"
@@ -73,48 +75,49 @@ exports[`With Snapshot Testing show the correct content 1`] = `
       </a>
     </h3>
     <div
-      className="playground-list__item-content"
+      className="playground-list__item-image"
     >
-      <div
-        className="playground-list__item-image"
-      >
-        <img
-          src="/static/playground/todo-cra.jpg"
-          width="100%"
-        />
-      </div>
-      <p>
-        Another TodoMVC app. Written using 
-        <a
-          href="https://facebook.github.io/create-react-app/"
-        >
-          Create React App
-        </a>
-         framework.
-      </p>
+      <img
+        alt="TodoMVC in CRA"
+        src="/static/playground/todo-cra.jpg"
+        width="100%"
+      />
     </div>
     <div
       className="playground-list__item-action"
     >
       <a
+        aria-label="Go to TodoMVC - Create React App readme page"
         className="playground-list__item-readme"
         href="https://github.com/hazmi/todomvc-cra/blob/master/README.md"
       >
         Readme
       </a>
       <a
+        aria-label="Go to TodoMVC - Create React App source on Github"
         className="playground-list__item-source"
         href="https://github.com/hazmi/todomvc-cra"
       >
         Source
       </a>
       <a
+        aria-label="Go to TodoMVC - Create React App demo page"
         className="playground-list__item-demo"
         href="https://cra-todomvc.netlify.com/#/"
       >
         Demo
       </a>
     </div>
+    <p>
+      Another TodoMVC app. Written using 
+      <a
+        aria-label="Go to Create React App Framework website"
+        href="https://facebook.github.io/create-react-app/"
+      >
+        Create React App
+      </a>
+       framework.
+    </p>
   </section>
 </div>
 `;
