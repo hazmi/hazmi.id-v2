@@ -11,7 +11,7 @@ export const Header = ({ data, router }) => {
   });
   return (
     <div className="header">
-      <img className="header__avatar" src='/static/pp.jpg' width={32} height={32} />
+      <img className="header__avatar" alt="Avatar Image" src='/static/pp.jpg' width={32} height={32} />
       <h1 className="header__title">{title}</h1>
     </div>
   );

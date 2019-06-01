@@ -10,7 +10,7 @@ export const PlaygroundList = () => {
         </h3>
         <div className="playground-list__item-content">
           <div className="playground-list__item-image">
-            <img src="/static/playground/todo-nextjs.jpg" width="100%" />
+            <img src="/static/playground/todo-nextjs.jpg" alt="TodoMVC in Next.js" width="100%" />
           </div>
           <p>Another TodoMVC app. Written using <a href="https://nextjs.org/">Next.js</a> framework.</p>
         </div>
@@ -26,7 +26,7 @@ export const PlaygroundList = () => {
         </h3>
         <div className="playground-list__item-content">
           <div className="playground-list__item-image">
-            <img src="/static/playground/todo-cra.jpg" width="100%" />
+            <img src="/static/playground/todo-cra.jpg" alt="TodoMVC in CRA" width="100%" />
           </div>
           <p>Another TodoMVC app. Written using <a href="https://facebook.github.io/create-react-app/">Create React App</a> framework.</p>
         </div>
