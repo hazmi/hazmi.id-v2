@@ -25,6 +25,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         src="/static/playground/todo-nextjs.jpg"
         width="100%"
       />
+      <span />
     </div>
     <div
       className="playground-list__item-action"
@@ -82,6 +83,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         src="/static/playground/todo-cra.jpg"
         width="100%"
       />
+      <span />
     </div>
     <div
       className="playground-list__item-action"

@@ -15,6 +15,7 @@ export const PlaygroundList = () => {
         </h3>
         <div className="playground-list__item-image">
           <img src="/static/playground/todo-nextjs.jpg" alt="TodoMVC in Next.js" width="100%" />
+          <span />
         </div>
         <div className="playground-list__item-action">
           <a
@@ -51,6 +52,7 @@ export const PlaygroundList = () => {
         </h3>
         <div className="playground-list__item-image">
           <img src="/static/playground/todo-cra.jpg" alt="TodoMVC in CRA" width="100%" />
+          <span />
         </div>
         <div className="playground-list__item-action">
           <a
