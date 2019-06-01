@@ -44,6 +44,23 @@ const nextConfig = {
     swDest: 'service-worker.js',
     runtimeCaching: [
       {
+        urlPattern: '/',
+        handler: 'networkFirst',
+        options: {
+          cacheName: 'html-cache',
+        },
+      },
+      {
+        urlPattern: /.*\.(?:png|jpg|jpeg|svg|gif)/,
+        handler: 'cacheFirst',
+        options: {
+          cacheName: 'image-cache',
+          cacheableResponse: {
+            statuses: [0, 200],
+          },
+        },
+      },
+      {
         urlPattern: /^https?.*/,
         handler: 'networkFirst',
         options: {
