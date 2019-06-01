@@ -11,7 +11,7 @@ export const ExperienceList = () => {
           <h3 className="experience-list__item-title">Tech Lead / IT Director</h3>
           <h4 className="experience-list__item-company"><span>at</span> Mango33 Pte Ltd</h4>
           <div className="experience-list__item-info">
-            <p>Working on HR Mobile Application.</p>
+            <p>Working on HR mobile application.</p>
           </div>
         </div>
       </section>
