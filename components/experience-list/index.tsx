@@ -11,7 +11,7 @@ export const ExperienceList = () => {
           <h3 className="experience-list__item-title">Tech Lead / IT Director</h3>
           <h4 className="experience-list__item-company"><span>at</span> Mango33 Pte Ltd</h4>
           <div className="experience-list__item-info">
-            <p>A mobile platforms providers.</p>
+            <p>Working on HR Mobile Application.</p>
           </div>
         </div>
       </section>
@@ -22,7 +22,7 @@ export const ExperienceList = () => {
           <h3 className="experience-list__item-title">Tech Lead / IT Director</h3>
           <h4 className="experience-list__item-company"><span>at</span> CelliHealth Pte Ltd</h4>
           <div className="experience-list__item-info">
-            <p>A health care mobile application.</p>
+            <p>Working on Healthcare mobile application.</p>
           </div>
         </div>
       </section>
@@ -33,7 +33,7 @@ export const ExperienceList = () => {
           <h3 className="experience-list__item-title">Lead Front-end Engineer</h3>
           <h4 className="experience-list__item-company"><span>at</span> PT. Kreatif Media Karya (KMK)</h4>
           <div className="experience-list__item-info">
-            <p>Part of Emtek. Own BBM, Vidio, Liputan6, etc.</p>
+            <p>Working on Liputan6 and Vidio desktop and mobile website.</p>
           </div>
         </div>
       </section>
@@ -44,7 +44,7 @@ export const ExperienceList = () => {
           <h3 className="experience-list__item-title">Tech Lead / VP Technology</h3>
           <h4 className="experience-list__item-company"><span>at</span> Graipe Labs</h4>
           <div className="experience-list__item-info">
-            <p>A mobile and web platforms providers.</p>
+            <p>Working on OTA websites and mobile applications.</p>
           </div>
         </div>
       </section>
@@ -55,7 +55,7 @@ export const ExperienceList = () => {
           <h3 className="experience-list__item-title">CTO</h3>
           <h4 className="experience-list__item-company"><span>at</span> PT. VG Wisata Indonesia (Kitook)</h4>
           <div className="experience-list__item-info">
-            <p>An online travel agent (OTA).</p>
+            <p>Working on OTA website.</p>
           </div>
         </div>
       </section>
@@ -66,7 +66,7 @@ export const ExperienceList = () => {
           <h3 className="experience-list__item-title">Senior Web Developer</h3>
           <h4 className="experience-list__item-company"><span>at</span> PT. Perjalanan Wisata (Gonla)</h4>
           <div className="experience-list__item-info">
-            <p>An online travel agent (OTA).</p>
+            <p>Working on OTA website.</p>
           </div>
         </div>
       </section>
@@ -77,7 +77,7 @@ export const ExperienceList = () => {
           <h3 className="experience-list__item-title">Front-end Web Developer</h3>
           <h4 className="experience-list__item-company"><span>at</span> XHTMLized</h4>
           <div className="experience-list__item-info">
-            <p>A slicing service company.</p>
+            <p>Working on converting client's design to html, wordpress or other templates.</p>
           </div>
         </div>
       </section>
@@ -88,7 +88,7 @@ export const ExperienceList = () => {
           <h3 className="experience-list__item-title">Web Developer</h3>
           <h4 className="experience-list__item-company"><span>at</span> PT. Agrisoft Citra Buana</h4>
           <div className="experience-list__item-info">
-            <p>A software house.</p>
+            <p>Working on websites and desktop applications, usually related to map technology.</p>
           </div>
         </div>
       </section>
