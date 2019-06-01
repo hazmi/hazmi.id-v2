@@ -8,6 +8,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     className="experience-list__item"
   >
     <img
+      alt="Logo Mango33"
       src="/static/work/mango33.png"
     />
     <div
@@ -35,7 +36,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         className="experience-list__item-info"
       >
         <p>
-          A mobile platforms providers.
+          Working on HR Mobile Application.
         </p>
       </div>
     </div>
@@ -44,6 +45,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     className="experience-list__item"
   >
     <img
+      alt="Logo CelliHealth"
       src="/static/work/cellihealth.png"
     />
     <div
@@ -71,7 +73,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         className="experience-list__item-info"
       >
         <p>
-          A health care mobile application.
+          Working on Healthcare mobile application.
         </p>
       </div>
     </div>
@@ -80,6 +82,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     className="experience-list__item"
   >
     <img
+      alt="Logo KMK"
       src="/static/work/kmk.png"
     />
     <div
@@ -107,7 +110,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         className="experience-list__item-info"
       >
         <p>
-          Part of Emtek. Own BBM, Vidio, Liputan6, etc.
+          Working on Liputan6 and Vidio desktop and mobile website.
         </p>
       </div>
     </div>
@@ -116,6 +119,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     className="experience-list__item"
   >
     <img
+      alt="Logo Graipe Labs"
       src="/static/work/graipe.png"
     />
     <div
@@ -143,7 +147,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         className="experience-list__item-info"
       >
         <p>
-          A mobile and web platforms providers.
+          Working on OTA websites and mobile applications.
         </p>
       </div>
     </div>
@@ -152,6 +156,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     className="experience-list__item"
   >
     <img
+      alt="Logo Kitook"
       src="/static/work/kitook.png"
     />
     <div
@@ -179,7 +184,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         className="experience-list__item-info"
       >
         <p>
-          An online travel agent (OTA).
+          Working on OTA website.
         </p>
       </div>
     </div>
@@ -188,6 +193,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     className="experience-list__item"
   >
     <img
+      alt="Logo Gonla"
       src="/static/work/gonla.png"
     />
     <div
@@ -215,7 +221,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         className="experience-list__item-info"
       >
         <p>
-          An online travel agent (OTA).
+          Working on OTA website.
         </p>
       </div>
     </div>
@@ -224,6 +230,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     className="experience-list__item"
   >
     <img
+      alt="Logo XHTMLized"
       src="/static/work/xhtmlized.png"
     />
     <div
@@ -251,7 +258,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         className="experience-list__item-info"
       >
         <p>
-          A slicing service company.
+          Working on converting client's design to html, wordpress or other templates.
         </p>
       </div>
     </div>
@@ -260,6 +267,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     className="experience-list__item"
   >
     <img
+      alt="Logo Agrisoft"
       src="/static/work/agrisoft.png"
     />
     <div
@@ -281,13 +289,13 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         <span>
           at
         </span>
-         PT. Kreatif Media Karya (KMK)
+         PT. Agrisoft Citra Buana
       </h4>
       <div
         className="experience-list__item-info"
       >
         <p>
-          A software house.
+          Working on websites and desktop applications, usually related to map technology.
         </p>
       </div>
     </div>

@@ -5,6 +5,7 @@ exports[`With Snapshot Testing It show the correct breadcrumbs 1`] = `
   className="header"
 >
   <img
+    alt="Avatar Image"
     className="header__avatar"
     height={32}
     src="/static/pp.jpg"
@@ -23,6 +24,7 @@ exports[`With Snapshot Testing It show the site name 1`] = `
   className="header"
 >
   <img
+    alt="Avatar Image"
     className="header__avatar"
     height={32}
     src="/static/pp.jpg"

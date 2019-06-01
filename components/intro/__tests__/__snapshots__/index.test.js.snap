@@ -21,18 +21,21 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     <p>
       If you need anything, I'm on 
       <a
+        aria-label="Go to Hazmi's LinkedIn"
         href="https://www.linkedin.com/in/hazmi-abdun-nazir/"
       >
         LinkedIn
       </a>
       , 
       <a
+        aria-label="Go to Hazmi's Github"
         href="https://github.com/hazmi"
       >
         GitHub
       </a>
        or 
       <a
+        aria-label="Go to Hazmi's Twitter"
         href="https://twitter.com/hazmi"
       >
         Twitter
@@ -47,12 +50,14 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     <p>
       This site is built using 
       <a
+        aria-label="Go to Next.js website"
         href="https://nextjs.org/"
       >
         Next.js
       </a>
       , a 
       <a
+        aria-label="Go to React Website"
         href="https://reactjs.org/"
       >
         React
