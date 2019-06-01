@@ -86,7 +86,7 @@ export const ExperienceList = () => {
         <div className="experience-list__item-content">
           <h5 className="experience-list__item-date">Jan 2005 &mdash; Jun 2007 &middot; 2yrs 6mos</h5>
           <h3 className="experience-list__item-title">Web Developer</h3>
-          <h4 className="experience-list__item-company"><span>at</span> PT. Kreatif Media Karya (KMK)</h4>
+          <h4 className="experience-list__item-company"><span>at</span> PT. Agrisoft Citra Buana</h4>
           <div className="experience-list__item-info">
             <p>A software house.</p>
           </div>
