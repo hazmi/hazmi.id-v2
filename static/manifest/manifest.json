@@ -1,7 +1,12 @@
 {
-	"name": "hazmi.id",
-	"short_name": "hazmi.id",
+	"name": "Hazmi.ID",
+	"short_name": "Hazmi.ID",
 	"icons": [
+		{
+			"src": "/static/android-icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
 		{
 			"src": "/static/android-icon-192x192.png",
 			"sizes": "192x192",

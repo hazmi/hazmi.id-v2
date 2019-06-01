@@ -6,11 +6,18 @@ const withManifest = require('next-manifest')
 const nextConfig = {
   manifest: {
     start_url: "/",
+    name: "Hazmi.ID",
+    short_name: "Hazmi.ID",
     display: "standalone",
     orientation: "natural",
     background_color: "#ffffff",
     theme_color: "#cf257b",
     icons: [
+      {
+        "src": "/static/android-icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
       {
         "src": "/static/android-icon-192x192.png",
         "sizes": "192x192",
