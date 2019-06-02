@@ -88,6 +88,58 @@ exports[`With Snapshot Testing show the correct content 1`] = `
     <h3
       className="project-list__title"
     >
+      Vidio
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="Vidio"
+        src="/static/project/vidio.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A social vidio sharing website.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      Liputan6
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="Liputan6"
+        src="/static/project/liputan6.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A news publishing website.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
       IN2NITE
     </h3>
     <div

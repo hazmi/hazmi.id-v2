@@ -34,6 +34,26 @@ const ProjectList = () => (
       </div>
     </div>
     <div className="project-list__item">
+      <h3 className="project-list__title">Vidio</h3>
+      <div className="project-list__image">
+        <img src="/static/project/vidio.jpg" alt="Vidio" width="100%" />
+        <span />
+      </div>
+      <div className="project-list__content">
+        <p>A social vidio sharing website.</p>
+      </div>
+    </div>
+    <div className="project-list__item">
+      <h3 className="project-list__title">Liputan6</h3>
+      <div className="project-list__image">
+        <img src="/static/project/liputan6.jpg" alt="Liputan6" width="100%" />
+        <span />
+      </div>
+      <div className="project-list__content">
+        <p>A news publishing website.</p>
+      </div>
+    </div>
+    <div className="project-list__item">
       <h3 className="project-list__title">IN2NITE</h3>
       <div className="project-list__image">
         <img src="/static/project/in2nite.jpg" alt="IN2NITE" width="100%" />
