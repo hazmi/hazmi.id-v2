@@ -23,7 +23,7 @@ const Intro = () => (
           <a href="https://developers.google.com/web/tools/lighthouse/#devtools" aria-label="Go to Google Lighthouse website">Google Lighthouse</a> audit result in Chrome.
         </figcaption>
       </figure>
-      <p>The other feature this site has is the full offline support. <a href="https://github.com/hanford/next-offline" arial-label="Go to next offline plugin page">A service worker via Google's workbox</a> combined with <a href="https://github.com/ragingwind/next-manifest" aria-title="Go to next manifest website">Web Manifest</a> makes a good <a href="https://developers.google.com/web/progressive-web-apps/" aria-label="PWA article on Google">PWA (Progressive Web App)</a> website.</p>
+      <p>The other feature this site has is the full offline support. <a href="https://github.com/hanford/next-offline" arial-label="Go to next offline plugin page">A service worker via Google's workbox</a> combined with <a href="https://github.com/ragingwind/next-manifest" aria-label="Go to next manifest website">Web Manifest</a> makes a good <a href="https://developers.google.com/web/progressive-web-apps/" aria-label="PWA article on Google">PWA (Progressive Web App)</a> website.</p>
       <p>This means, you can do "Add to Home Screen" in iOS or Android, then can still browse the site in airplane mode.</p>
     </section>
     <section>
