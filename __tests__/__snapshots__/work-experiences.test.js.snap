@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`With Snapshot Testing show the correct index page 1`] = `
+exports[`With Snapshot Testing show the correct work experiences page 1`] = `
 <section
   className="intro"
 >

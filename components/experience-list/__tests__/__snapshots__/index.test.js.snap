@@ -36,7 +36,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
         className="experience-list__item-info"
       >
         <p>
-          Working on HR Mobile Application.
+          Working on HR mobile application.
         </p>
       </div>
     </div>

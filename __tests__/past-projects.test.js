@@ -1,10 +1,10 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
-import Index from '../pages/index'
+import PastProjects from '../pages/index'
 
 describe('With Snapshot Testing', () => {
-  it('show the correct index page', () => {
-    const component = renderer.create(<Index />)
+  it('show the correct past projects page', () => {
+    const component = renderer.create(<PastProjects />)
     const tree = component.toJSON()
     expect(tree).toMatchSnapshot()
   })
