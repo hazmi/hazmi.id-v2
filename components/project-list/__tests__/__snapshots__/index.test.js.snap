@@ -134,5 +134,31 @@ exports[`With Snapshot Testing show the correct content 1`] = `
       </p>
     </div>
   </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      X-Worlds
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="X-Worlds"
+        src="/static/project/x-worlds.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A website that transform kids drawing into reality.
+      </p>
+    </div>
+  </div>
 </div>
 `;

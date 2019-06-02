@@ -53,6 +53,16 @@ const ProjectList = () => (
         <p>An Online Travel Agent (OTA) website.</p>
       </div>
     </div>
+    <div className="project-list__item">
+      <h3 className="project-list__title">X-Worlds</h3>
+      <div className="project-list__image">
+        <img src="/static/project/x-worlds.jpg" alt="X-Worlds" width="100%" />
+        <span />
+      </div>
+      <div className="project-list__content">
+        <p>A website that transform kids drawing into reality.</p>
+      </div>
+    </div>
   </div>
 );
 
