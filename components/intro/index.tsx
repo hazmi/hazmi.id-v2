@@ -16,8 +16,19 @@ const Intro = () => (
     </section>
     <section>
       <h3>About this site</h3>
-      <p>This site is built using <a href="https://nextjs.org/"  aria-label="Go to Next.js website">Next.js</a>, a <a href="https://reactjs.org/" aria-label="Go to React Website">React</a> Framework. This site is still in progress, currently optimized for mobile.</p>
-      <p><em>[will write more about the site]</em></p>
+      <p>This site is built using <a href="https://nextjs.org/"  aria-label="Go to Next.js website">Next.js</a>, a <a href="https://reactjs.org/" aria-label="Go to React website">React</a> framework. The framework has export to static as well as the SSR (Server Side Rendering) options that makes the site play well with search engine. I like it.</p>
+      <figure>
+        <img src="/static/lighthouse-audit.jpg" alt="Lighthouse Audit" />
+        <figcaption>
+          <a href="https://developers.google.com/web/tools/lighthouse/#devtools" aria-label="Go to Google Lighthouse website">Google Lighthouse</a> audit result in Chrome.
+        </figcaption>
+      </figure>
+      <p>The other feature this site has is the full offline support. <a href="https://github.com/hanford/next-offline" arial-label="Go to next offline plugin page">A service worker via Google's workbox</a> combined with <a href="https://github.com/ragingwind/next-manifest" aria-title="Go to next manifest website">Web Manifest</a> makes a good <a href="https://developers.google.com/web/progressive-web-apps/" aria-label="PWA article on Google">PWA (Progressive Web App)</a> website.</p>
+      <p>This means, you can do "Add to Home Screen" in iOS or Android, then can still browse the site in airplane mode.</p>
+    </section>
+    <section>
+      <p>Do enjoy the site, may you find something useful here.</p>
+      <p>Cheers!</p>
     </section>
   </section>
 );
