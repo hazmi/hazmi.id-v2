@@ -1,6 +1,6 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
-import Playgrounds from '../pages/index'
+import Playgrounds from '../pages/playgrounds'
 
 describe('With Snapshot Testing', () => {
   it('show the correct playgrounds page', () => {
