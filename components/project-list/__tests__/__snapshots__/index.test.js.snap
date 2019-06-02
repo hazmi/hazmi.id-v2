@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing show the correct content 1`] = `
+<div
+  className="project-list"
+>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      Connect33
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="Connect33"
+        src="/static/project/connect33.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A HR mobile application.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      MUTUCare
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="MUTUCare"
+        src="/static/project/mutucare.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A hazard awareness mobile application.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      CelliHealth
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="CelliHealth"
+        src="/static/project/cellihealth.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A healthcare mobile application.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      IN2NITE
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="IN2NITE"
+        src="/static/project/in2nite.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A last minute hotel booking mobile application.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      Kitook
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="Kitook"
+        src="/static/project/kitook.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        An Online Travel Agent (OTA) website.
+      </p>
+    </div>
+  </div>
+</div>
+`;

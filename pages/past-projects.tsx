@@ -1,6 +1,6 @@
 import React from 'react'
-import ComingSoon from '../components/coming-soon'
+import ProjectList from '../components/project-list'
 
-const PastProjects = () => <ComingSoon title="Past Projects" />;
+const PastProjects = () => <ProjectList />;
 
 export default PastProjects;
