@@ -1,6 +1,6 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
-import PastProjects from '../pages/index'
+import PastProjects from '../pages/past-projects'
 
 describe('With Snapshot Testing', () => {
   it('show the correct past projects page', () => {

@@ -1,74 +1,216 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`With Snapshot Testing show the correct past projects page 1`] = `
-<section
-  className="intro"
+<div
+  className="project-list"
 >
-  <p>
-    Hello!
-  </p>
-  <p>
-    My name is 
-    <strong>
-      Hazmi Abdun Nazir
-    </strong>
-    . I create mobile apps and websites, as a hobby and for a living.
-  </p>
-  <section>
-    <h3>
-      Contact
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      Connect33
     </h3>
-    <p>
-      If you need anything, I'm on 
-      <a
-        aria-label="Go to Hazmi's LinkedIn"
-        href="https://www.linkedin.com/in/hazmi-abdun-nazir/"
-      >
-        LinkedIn
-      </a>
-      , 
-      <a
-        aria-label="Go to Hazmi's Github"
-        href="https://github.com/hazmi"
-      >
-        GitHub
-      </a>
-       or 
-      <a
-        aria-label="Go to Hazmi's Twitter"
-        href="https://twitter.com/hazmi"
-      >
-        Twitter
-      </a>
-      .
-    </p>
-  </section>
-  <section>
-    <h3>
-      About this site
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="Connect33"
+        src="/static/project/connect33.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A HR mobile application.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      MUTUCare
     </h3>
-    <p>
-      This site is built using 
-      <a
-        aria-label="Go to Next.js website"
-        href="https://nextjs.org/"
-      >
-        Next.js
-      </a>
-      , a 
-      <a
-        aria-label="Go to React Website"
-        href="https://reactjs.org/"
-      >
-        React
-      </a>
-       Framework. This site is still in progress, currently optimized for mobile.
-    </p>
-    <p>
-      <em>
-        [will write more about the site]
-      </em>
-    </p>
-  </section>
-</section>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="MUTUCare"
+        src="/static/project/mutucare.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A hazard awareness mobile application.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      CelliHealth
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="CelliHealth"
+        src="/static/project/cellihealth.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A healthcare mobile application.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      Vidio
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="Vidio"
+        src="/static/project/vidio.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A social vidio sharing website.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      Liputan6
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="Liputan6"
+        src="/static/project/liputan6.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A news publishing website.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      IN2NITE
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="IN2NITE"
+        src="/static/project/in2nite.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A last minute hotel booking mobile application.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      Kitook
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="Kitook"
+        src="/static/project/kitook.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        An Online Travel Agent (OTA) website.
+      </p>
+    </div>
+  </div>
+  <div
+    className="project-list__item"
+  >
+    <h3
+      className="project-list__title"
+    >
+      X-Worlds
+    </h3>
+    <div
+      className="project-list__image"
+    >
+      <img
+        alt="X-Worlds"
+        src="/static/project/x-worlds.jpg"
+        width="100%"
+      />
+      <span />
+    </div>
+    <div
+      className="project-list__content"
+    >
+      <p>
+        A website that transform kids drawing into reality.
+      </p>
+    </div>
+  </div>
+</div>
 `;
