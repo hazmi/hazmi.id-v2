@@ -89,7 +89,7 @@ exports[`With Snapshot Testing show the correct content 1`] = `
       </a>
        combined with 
       <a
-        aria-title="Go to next manifest website"
+        aria-label="Go to next manifest website"
         href="https://github.com/ragingwind/next-manifest"
       >
         Web Manifest
