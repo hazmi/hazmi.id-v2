@@ -16,7 +16,8 @@ const Intro = () => (
     </section>
     <section>
       <h3>About this site</h3>
-      <p>This site is built using <a href="https://nextjs.org/"  aria-label="Go to Next.js website">Next.js</a>, a <a href="https://reactjs.org/" aria-label="Go to React website">React</a> framework. The framework has export to static as well as the SSR (Server Side Rendering) options that makes the site play well with search engine. I like it.</p>
+      <p>This site is built using <a href="https://nextjs.org/"  aria-label="Go to Next.js website">Next.js</a>, a <a href="https://reactjs.org/" aria-label="Go to React website">React</a> framework. The framework has few option, including the SSR (Server Side Rendering) and static option that makes the site plays well with search engine. I like it.</p>
+      <p>Yes, I know that <a href="https://developers.google.com/search/docs/guides/javascript-seo-basics" aria-label="Go to Google's article about JavaScript SEO">Google can crawl and index JavaScript</a> website, but still they recommend the server side or pre-rendering for various reasons.</p>
       <figure>
         <img src="/static/lighthouse-audit.jpg" alt="Lighthouse Audit" />
         <figcaption>
