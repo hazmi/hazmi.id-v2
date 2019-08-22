@@ -5,9 +5,20 @@ export const ExperienceList = () => {
   return (
     <div className="experience-list">
       <section className="experience-list__item">
+        <img src="/static/work/gojek.png" alt="Logo Gojek" />
+        <div className="experience-list__item-content">
+          <h5 className="experience-list__item-date">Aug 2019 &mdash; Current</h5>
+          <h3 className="experience-list__item-title">Product Engineer</h3>
+          <h4 className="experience-list__item-company"><span>at</span> Gojek</h4>
+          <div className="experience-list__item-info">
+            <p>Working on websites.</p>
+          </div>
+        </div>
+      </section>
+      <section className="experience-list__item">
         <img src="/static/work/mango33.png" alt="Logo Mango33" />
         <div className="experience-list__item-content">
-          <h5 className="experience-list__item-date">May 2018 &mdash; Present</h5>
+          <h5 className="experience-list__item-date">May 2018 &mdash; Aug 2019</h5>
           <h3 className="experience-list__item-title">Tech Lead / IT Director</h3>
           <h4 className="experience-list__item-company"><span>at</span> Mango33 Pte Ltd</h4>
           <div className="experience-list__item-info">
