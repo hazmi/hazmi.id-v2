@@ -17,7 +17,7 @@ interface navItem {
 const data: navItem[] = [
   {
     id: 1,
-    title: "",
+    title: "Home",
     link: "/",
     icon: IconHome,
   },
@@ -44,7 +44,9 @@ const data: navItem[] = [
 export const Main = ({ children }) => (
   <div className="main">
     <Header data={data} />
+    <hr />
     <Navigation data={data} />
+    <hr />
     <div className="main__content">
       {children}
     </div>

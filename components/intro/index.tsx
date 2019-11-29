@@ -9,13 +9,13 @@ const Intro = () => (
       I create mobile apps and websites, as a hobby and for a living.
     </p>
     <section>
-      <h3>Contact</h3>
+      <h2>Contact</h2>
       <p>
-        If you need anything, I'm on <a href="https://www.linkedin.com/in/hazmi-abdun-nazir/" aria-label="Go to Hazmi's LinkedIn">LinkedIn</a>, <a href="https://github.com/hazmi" aria-label="Go to Hazmi's Github">GitHub</a> or <a href="https://twitter.com/hazmi"  aria-label="Go to Hazmi's Twitter">Twitter</a>.
+        If you need anything, I'm on <a href="https://www.linkedin.com/in/hazmi-abdun-nazir/" aria-label="Go to Hazmi's LinkedIn">LinkedIn</a>, <a href="https://github.com/hazmi" aria-label="Go to Hazmi's Github">GitHub</a>, <a href="https://twitter.com/hazmi" aria-label="Go to Hazmi's Twitter">Twitter</a> and <a aria-label="Go to Hazmi's CodePen" href="https://codepen.io/hazmi">Codepen</a>.
       </p>
     </section>
     <section>
-      <h3>About this site</h3>
+      <h2>About this site</h2>
       <p>This site is built using <a href="https://nextjs.org/"  aria-label="Go to Next.js website">Next.js</a>, a <a href="https://reactjs.org/" aria-label="Go to React website">React</a> framework. The framework has few option, including the SSR (Server Side Rendering) and static option that makes the site plays well with search engine. I like it.</p>
       <p>Yes, I know that <a href="https://developers.google.com/search/docs/guides/javascript-seo-basics" aria-label="Go to Google's article about JavaScript SEO">Google can crawl and index JavaScript</a> website, but still they recommend the server side or pre-rendering for various reasons.</p>
       <figure>

@@ -44,6 +44,9 @@ class MyApp extends App {
             flex: 1;
             justify-content: center;
           }
+          hr {
+            display: none;
+          }
       `}</style>
       </Container>
     );
