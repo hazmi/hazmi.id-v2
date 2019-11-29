@@ -1,6 +1,13 @@
 .navigation {
   position: relative;
   display: flex;
+  ul, li {
+    display: flex;
+    flex: 1;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
   &__item {
     flex: 1;
     text-align: center;
@@ -11,6 +18,9 @@
     font-size: 14px;
     &_active svg path {
       fill: #cf257b;
+    }
+    span {
+      display: none;
     }
   }
   &__active-link {
