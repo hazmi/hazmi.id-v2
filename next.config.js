@@ -42,6 +42,7 @@ const nextConfig = {
   },
   workboxOpts: {
     swDest: 'service-worker.js',
+    navigateFallback: '/',
     runtimeCaching: [
       {
         urlPattern: '/',
